@@ -11,7 +11,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 400
     subtitle: >-
       Bienvenue chez nous! Bienvenue à Grenade!Nous espérons que vous profiterez
       de votre séjour et que vous vous sentirez commechez vous. Voici toutes les
