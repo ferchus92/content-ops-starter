@@ -22,6 +22,10 @@ sections:
       circulation en voiture est limitée, la station de taxis la plus proche
       setrouve dans une autre direction, et les conteneurs de recyclage ont
       change d’emplacement.
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       type: TitleBlock
       text: This Is A Big Headline
