@@ -66,10 +66,27 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nous espérons que vous profiterez de votre séjour et que vous vous
+          sentirez comme
+
+          chez vous. Voici toutes les informations dont vous pourriez avoir
+          besoin pour
+
+          tirer le meilleur parti de votre visite. Pour toute question ou doute,
+          vous
+
+          pouvez nous contacter par WhatsApp au +34 658 49 49 68 et nous vous
+          répondrons
+
+          dans les plus brefs délais. En raison de travaux dans plusieurs rues
+          voisines,
+
+          la circulation en voiture est limitée, la station de taxis la plus
+          proche se
+
+          trouve dans une autre direction, et les conteneurs de recyclage ont
+          change d’emplacement.
         image:
           type: ImageBlock
           url: /images/foto de tres.jpg
