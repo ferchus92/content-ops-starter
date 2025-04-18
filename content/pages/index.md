@@ -180,7 +180,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: justify
+        textAlign: left
     type: GenericSection
   - type: GenericSection
     title:
