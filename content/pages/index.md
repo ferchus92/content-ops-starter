@@ -37,7 +37,7 @@ sections:
       trouve dans une autre direction, et les conteneurs de recyclage ont change
       d’emplacement.
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
