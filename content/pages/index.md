@@ -85,7 +85,7 @@ sections:
               - pt-9
               - pb-9
               - pl-3
-              - pr-9
+              - pr-0
             textAlign: left
             borderRadius: large
             flexDirection: col
