@@ -9,9 +9,26 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Nous espérons que vous profiterez de votre séjour et que vous vous
+      sentirez comme
+
+      chez vous. Voici toutes les informations dont vous pourriez avoir besoin
+      pour
+
+      tirer le meilleur parti de votre visite. Pour toute question ou doute,
+      vous
+
+      pouvez nous contacter par WhatsApp au +34 658 49 49 68 et nous vous
+      répondrons
+
+      dans les plus brefs délais. En raison de travaux dans plusieurs rues
+      voisines,
+
+      la circulation en voiture est limitée, la station de taxis la plus proche
+      se
+
+      trouve dans une autre direction, et les conteneurs de recyclage ont change
+      d’emplacement.
     actions:
       - label: Get started
         altText: ''
