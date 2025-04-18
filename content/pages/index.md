@@ -65,7 +65,7 @@ sections:
       self:
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: justify
     subtitle: >-
       Bienvenue chez nous! Bienvenue à Grenade!Nous espérons que vous profiterez
       de votre séjour et que vous vous sentirez commechez vous. Voici toutes les
