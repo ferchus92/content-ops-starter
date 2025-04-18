@@ -7,7 +7,7 @@ sections:
       text: 'Casa de Fer, Ele y Eva.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Nous espérons que vous profiterez de votre séjour et que vous vous
       sentirez comme
