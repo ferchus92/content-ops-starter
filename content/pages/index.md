@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Casa de Fer, Ele y Eva.'
+      text: 'Fer, Ele and Eva’s House'
       color: text-dark
       type: TitleBlock
     subtitle: ''
