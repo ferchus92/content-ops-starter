@@ -9,6 +9,13 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
+
+
+
+
+      **Bienvenue chez nous! Bienvenue à Grenade!**
+
+
       Nous espérons que vous profiterez de votre séjour et que vous vous
       sentirez comme
 
