@@ -3,33 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: ''
-        tagline: Feature 2
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/foto de tres.jpg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
+    items: []
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
