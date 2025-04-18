@@ -45,7 +45,7 @@ sections:
           padding:
             - pr-4
     badge:
-      label: 'Fer, Ele and Eva’s House'
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
