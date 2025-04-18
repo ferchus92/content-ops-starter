@@ -36,16 +36,7 @@ sections:
 
       trouve dans une autre direction, et les conteneurs de recyclage ont change
       d’emplacement.
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/foto de tres.jpg
       altText: Unblock your team boost your time to production preview
