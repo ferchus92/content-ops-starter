@@ -58,16 +58,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |
-      <iframe
-        width="670" height="377"
-        src="https\://www\.youtube.com/embed/videoseries?list=PLp3Ija104Y\&loop=1\&autoplay=1\&mute=1"
-        title="grifo"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen>
-      </iframe>
+    text: ''
     actions: []
     media:
       title: Title of the video
