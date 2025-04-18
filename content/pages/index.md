@@ -10,7 +10,7 @@ sections:
       self:
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: justify
         fontWeight: 400
     subtitle: >-
       Bienvenue chez nous! Bienvenue à Grenade!Nous espérons que vous profiterez
