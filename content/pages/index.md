@@ -39,7 +39,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/foto de tres.jpg
           altText: Business consulting
           elementId: ''
           styles:
