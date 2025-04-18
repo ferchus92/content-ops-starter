@@ -86,7 +86,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'C:\Users\Fernando\Documents\guia huespedes'
+      url: ''
       autoplay: true
       loop: true
       muted: true
