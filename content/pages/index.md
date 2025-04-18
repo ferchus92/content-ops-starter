@@ -38,7 +38,6 @@ sections:
       d’emplacement.
     actions: []
     media:
-      url: /images/foto de tres.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
