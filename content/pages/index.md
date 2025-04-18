@@ -24,7 +24,7 @@ sections:
       change d’emplacement.
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Fer, Ele and Eva’s House.'
       color: text-dark
   - title:
       type: TitleBlock
