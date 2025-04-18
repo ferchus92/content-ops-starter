@@ -170,7 +170,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://vimeo.com/462535415'
+      url: 'https://vimeo.com/groups/thevoyage/videos/890600348'
       autoplay: true
       loop: true
       muted: true
