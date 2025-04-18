@@ -42,6 +42,10 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pr-4
     badge:
       label: Guía de bienvenida
       color: text-primary
