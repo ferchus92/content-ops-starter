@@ -91,7 +91,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Lave-linge
       color: text-dark
     subtitle: Increase your reach
     text: >
