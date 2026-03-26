@@ -95,8 +95,11 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
+      près de la fenêtre.
+
+      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
+      vidéo explicative
     actions:
       - type: Button
         label: Get started
