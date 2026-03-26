@@ -133,43 +133,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
-      color: text-dark
-    subtitle: Increase your reach
-    text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
-
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: 'Électroménagers:'
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Generic section with a video
       color: text-dark
       styles:
