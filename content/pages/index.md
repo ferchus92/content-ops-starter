@@ -99,7 +99,7 @@ sections:
       près de la fenêtre.
 
       Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative
+      vidéo explicative.
     actions:
       - type: Button
         label: Get started
