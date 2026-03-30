@@ -68,13 +68,7 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: >-
-        <iframe width="560" height="315"
-        src="https://www.youtube-nocookie.com/embed/YgICwpyrGk8?si=c3-9paEsd-FF2p1B&amp;controls=0"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen></iframe>
+        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0
       autoplay: true
       loop: true
       muted: true
