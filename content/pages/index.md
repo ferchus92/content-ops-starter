@@ -98,10 +98,18 @@ sections:
         title: Business Consulting
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          <iframe 
+            width="560" 
+            height="315" 
+            src="https\://www\.youtube-nocookie.com/embed/YgICwpyrGk8?autoplay=1\&mute=1\&loop=1\&playlist=YgICwpyrGk8\&controls=0\&playsinline=1" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="autoplay; encrypted-media; picture-in-picture" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+          </iframe>
+
         actions: []
         colors: bg-dark-fg-light
         styles:
