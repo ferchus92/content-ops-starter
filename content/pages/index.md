@@ -52,7 +52,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Prueba
+      text: Lavadora
       color: text-dark
       styles:
         self:
