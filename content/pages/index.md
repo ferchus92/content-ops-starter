@@ -67,7 +67,14 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://youtu.be/YgICwpyrGk8'
+      url: >-
+        <iframe width="560" height="315"
+        src="https://www.youtube-nocookie.com/embed/YgICwpyrGk8?si=c3-9paEsd-FF2p1B&amp;controls=0"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen></iframe>
       autoplay: true
       loop: true
       muted: true
@@ -80,7 +87,7 @@ sections:
             - pb-2
             - pl-2
             - pr-2
-          borderColor: border-dark
+          borderColor: border-neutral
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
