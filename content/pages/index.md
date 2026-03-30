@@ -123,7 +123,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Business Consulting
-        tagline: Feature 2
+        tagline: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
