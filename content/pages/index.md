@@ -93,26 +93,7 @@ sections:
       subtitle:
         textAlign: left
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Business Consulting
-        tagline: ''
-        subtitle: ''
-        text: |
-          ``
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
+    items: []
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
