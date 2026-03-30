@@ -67,8 +67,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://www.youtube-nocookie.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&playsinline=1
+      url: 'https://www.youtube.com/embed/YgICwpyrGk8'
       autoplay: true
       loop: true
       muted: true
