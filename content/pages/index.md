@@ -57,12 +57,13 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
+      près de la fenêtre.
+
+      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
+      vidéo explicative.
     actions: []
     media:
       type: VideoBlock
