@@ -52,7 +52,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Prueba
+      text: Lave-linge
       color: text-dark
       styles:
         self:
@@ -68,7 +68,7 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: >-
-        https://www.youtube-nocookie.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&playsinline=1
+        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
       autoplay: true
       loop: true
       muted: true
@@ -92,6 +92,15 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: CarouselSection
+    items: []
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
