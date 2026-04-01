@@ -45,6 +45,7 @@ sections:
         justifyContent: center
         margin:
           - mt-0
+          - mb-7
       subtitle:
         textAlign: center
       text:
