@@ -43,6 +43,8 @@ sections:
       self:
         flexDirection: col
         justifyContent: center
+        margin:
+          - mt-7
       subtitle:
         textAlign: center
       text:
