@@ -316,7 +316,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Instructions pour utiliser le robinet de la douche
       color: text-dark
     subtitle: ''
     text: >
