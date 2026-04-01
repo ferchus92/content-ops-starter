@@ -339,7 +339,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG20250412122225~2.jpg
-      altText: Fun feature preview
+      altText: ''
     badge:
       type: Badge
       label: This is a badge
