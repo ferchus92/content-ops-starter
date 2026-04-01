@@ -146,14 +146,13 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >
-      Il suffit de faire l’action suivante : appuyer sur le bouton d’allumage,
-      attendre environ 5
+    text: >+
+      Pour le mettre en marche, appuyez sur le bouton d’alimentation, attendez
+      environ 5 secondes, puis appuyez sur le bouton de démarrage.
 
-      secondes, puis appuyer sur le bouton de démarrage. Les pastilles de savon
-      se trouvent au-dessus du
+      Les pastilles de détergent se trouvent à côté du Thermomix; elles sont de
+      couleur jaune.
 
-      micro-ondes.
     actions: []
     media:
       type: VideoBlock
