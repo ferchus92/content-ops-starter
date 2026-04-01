@@ -158,8 +158,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
+      url: 'https://youtu.be/EivoVssV6x0'
       autoplay: true
       loop: true
       muted: true
@@ -199,8 +198,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
+      url: 'https://youtu.be/oBfhEqRTCaA'
       autoplay: true
       loop: true
       muted: true
@@ -240,8 +238,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
+      url: 'https://youtu.be/KdOBNSOwFlE'
       autoplay: true
       loop: true
       muted: true
