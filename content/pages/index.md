@@ -192,10 +192,8 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Nous vous recommandons d'utiliser uniquement le bouton que nous vous avons
-      montré
-
-      dans la vidéo explicative.
+      Il est recommandé d’utiliser uniquement le bouton indiqué dans la vidéo
+      explicative.
     actions: []
     media:
       type: VideoBlock
