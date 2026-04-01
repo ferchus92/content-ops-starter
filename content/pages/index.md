@@ -137,6 +137,50 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Lave-linge
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
+      près de la fenêtre.
+
+      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
+      vidéo explicative.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: >-
+        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-neutral
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: CarouselSection
     items: []
     variant: tabs-nav
