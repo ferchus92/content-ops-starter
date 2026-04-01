@@ -59,11 +59,11 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
+      Le détergent et l’assouplissant se trouvent dans le tiroir situé près de
+      la fenêtre.
 
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative.
+      Il est recommandé d’utiliser le programme de lavage indiqué dans la vidéo
+      explicative.
     actions: []
     media:
       type: VideoBlock
