@@ -103,10 +103,10 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
+      Avant chaque cycle de séchage, vous devez vider le réservoir d’eau et
+      nettoyer les filtres.
 
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
+      Nous vous recommandons d’utiliser le programme de séchage indiqué dans la
       vidéo explicative.
     actions: []
     media:
