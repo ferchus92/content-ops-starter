@@ -229,7 +229,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
+      text: Fenêtres
       color: text-dark
       styles:
         self:
