@@ -96,7 +96,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
+      text: Sèche-linge
       color: text-dark
       styles:
         self:
