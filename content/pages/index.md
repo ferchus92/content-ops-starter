@@ -233,10 +233,8 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Nous vous montrons dans la vidéo explicative comment ouvrir la fenêtre
-      dans les deux
-
-      positions possibles.
+      La vidéo explicative montre comment utiliser l’ouverture oscillo-battante
+      de la fenêtre.
     actions: []
     media:
       type: VideoBlock
