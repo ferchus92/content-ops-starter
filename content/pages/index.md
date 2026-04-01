@@ -44,7 +44,7 @@ sections:
         flexDirection: col
         justifyContent: center
         margin:
-          - mt-2
+          - mt-0
       subtitle:
         textAlign: center
       text:
