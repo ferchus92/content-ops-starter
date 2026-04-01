@@ -147,11 +147,13 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
+      : Il suffit de faire l’action suivante : appuyer sur le bouton d’allumage,
+      attendre environ 5
 
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative.
+      secondes, puis appuyer sur le bouton de démarrage. Les pastilles de savon
+      se trouvent au-dessus du
+
+      micro-ondes.
     actions: []
     media:
       type: VideoBlock
