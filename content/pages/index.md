@@ -319,9 +319,23 @@ sections:
       text: Instructions pour utiliser le robinet de la douche
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      **Commande supérieure (débit d’eau) :**
+
+      Tournez-la dans le sens des aiguilles d’une montre pour que l’eau sorte
+      correctement de la douche.
+
+      Remarque : si vous la tournez dans l’autre sens, l’eau sortira par le haut
+      (qui est cassé), donc ne le faites pas.
+
+
+      **Commande inférieure (température de l’eau) :**
+
+      Tournez-la dans le sens inverse des aiguilles d’une montre pour que l’eau
+      soit chaude.
+
+
+
     actions: []
     media:
       type: ImageBlock
