@@ -147,7 +147,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      : Il suffit de faire l’action suivante : appuyer sur le bouton d’allumage,
+      Il suffit de faire l’action suivante : appuyer sur le bouton d’allumage,
       attendre environ 5
 
       secondes, puis appuyer sur le bouton de démarrage. Les pastilles de savon
