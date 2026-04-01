@@ -140,7 +140,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
+      text: Lave-vaisselle
       color: text-dark
       styles:
         self:
