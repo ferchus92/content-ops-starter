@@ -327,10 +327,6 @@ sections:
       type: ImageBlock
       url: /images/IMG20250412122225~2.jpg
       altText: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
