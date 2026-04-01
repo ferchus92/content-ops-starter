@@ -184,7 +184,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
+      text: Micro-ondes
       color: text-dark
       styles:
         self:
