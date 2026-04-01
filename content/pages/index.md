@@ -59,10 +59,54 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
+      Le détergent et l’assouplissant se trouvent dans le tiroir situé près de
+      la fenêtre.
 
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
+      Il est recommandé d’utiliser le programme de lavage indiqué dans la vidéo
+      explicative.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: >-
+        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-neutral
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Sèche-linge
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      Avant chaque cycle de séchage, vous devez vider le réservoir d’eau et
+      nettoyer les filtres.
+
+      Nous vous recommandons d’utiliser le programme de séchage indiqué dans la
       vidéo explicative.
     actions: []
     media:
@@ -96,18 +140,19 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
+      text: Lave-vaisselle
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: ''
-    text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
+    text: >+
+      Pour le mettre en marche, appuyez sur le bouton d’alimentation, attendez
+      environ 5 secondes, puis appuyez sur le bouton de démarrage.
 
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative.
+      Les pastilles de détergent se trouvent à côté du Thermomix; elles sont de
+      couleur jaune.
+
     actions: []
     media:
       type: VideoBlock
@@ -140,18 +185,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lave-linge
+      text: Micro-ondes
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: ''
     text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
-
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative.
+      Il est recommandé d’utiliser uniquement le bouton indiqué dans la vidéo
+      explicative.
     actions: []
     media:
       type: VideoBlock
@@ -181,6 +223,79 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Fenêtres
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      La vidéo explicative montre comment utiliser l’ouverture oscillo-battante
+      de la fenêtre.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: >-
+        https://www.youtube.com/embed/YgICwpyrGk8?autoplay=1&mute=1&loop=1&playlist=YgICwpyrGk8&controls=0&modestbranding=1&rel=0&playsinline=1
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-neutral
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Instructions pour utiliser le robinet de la douche
+      color: text-dark
+    subtitle: ''
+    text: >+
+      **Commande supérieure (débit d’eau) :**
+
+      Tournez-la dans le sens des aiguilles d’une montre pour que l’eau sorte
+      correctement de la douche.
+
+      Remarque : si vous la tournez dans l’autre sens, l’eau sortira par le haut
+      (qui est cassé), donc ne le faites pas.
+
+
+      **Commande inférieure (température de l’eau) :**
+
+      Tournez-la dans le sens inverse des aiguilles d’une montre pour que l’eau
+      soit chaude.
+
+
+
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/IMG20250412122225~2.jpg
+      altText: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: CarouselSection
     items: []
     variant: tabs-nav
