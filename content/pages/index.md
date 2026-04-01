@@ -236,11 +236,10 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Vous trouverez de la lessive et de l’adoucissant dans le chariot en bois
-      près de la fenêtre.
+      Nous vous montrons dans la vidéo explicative comment ouvrir la fenêtre
+      dans les deux
 
-      Nous vous recommandons d’utiliser le programme de lavage indiqué dans la
-      vidéo explicative.
+      positions possibles.
     actions: []
     media:
       type: VideoBlock
