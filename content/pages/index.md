@@ -18,10 +18,7 @@ sections:
       informations dont vous pourriez avoir besoin pourtirer le meilleur parti
       de votre visite. Pour toute question ou doute, vouspouvez nous contacter
       par WhatsApp au +34 658 49 49 68 et nous vous répondronsdans les plus
-      brefs délais. En raison de travaux dans plusieurs rues voisines,la
-      circulation en voiture est limitée, la station de taxis la plus proche
-      setrouve dans une autre direction, et les conteneurs de recyclage ont
-      change d’emplacement.
+      brefs délais.
     title:
       type: TitleBlock
       text: 'Fer, Ele and Eva’s House.'
