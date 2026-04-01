@@ -9,6 +9,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-3
       subtitle:
         textAlign: justify
         fontWeight: 400
